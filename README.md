@@ -1,5 +1,5 @@
 # 💫 Hi this is Vatsal Vinarma
-🔭 I’m currently working on open source<br>🌱 I’m currently learning Cpp<br>💬 Ask me about anything<br>⚡ Fun fact: HTML is enough to hack NASA ... hehe
+🔭 I’m currently working on open source<br>⚡ Fun fact: HTML is enough to hack NASA ... hehe
 
 
 ## 🌐 Socials:
